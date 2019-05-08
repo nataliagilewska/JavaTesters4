@@ -15,5 +15,10 @@ public class Main {
         czlowiek1.przedstawSie();
         czlowiek2.przedstawSie();
 
+        //ZAD 2.
+        Ksiazka ksiazka1=new Ksiazka();
+        ksiazka1.coToZaKsiazka();
+
+
     }
 }
